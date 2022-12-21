@@ -11,3 +11,5 @@ I've spotted that several launchers don't actually support both options they pre
 This example app is the MVP app to show that and to test on different launchers.
 
 See the video's in '/Cases' folder for some examples.
+
+If you need to contact me, try piotapps [attttt-sign-youknow] gmail [.com, duh] . _(trying to prevent bots)_
